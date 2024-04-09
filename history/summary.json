@@ -5,18 +5,18 @@
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
-    "time": 602,
-    "timeDay": 602,
-    "timeWeek": 602,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "uptime": "0.13%",
+    "uptimeDay": "0.13%",
+    "uptimeWeek": "0.13%",
+    "uptimeMonth": "0.13%",
+    "uptimeYear": "0.13%",
+    "time": 592,
+    "timeDay": 592,
+    "timeWeek": 592,
+    "timeMonth": 592,
+    "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-04-09": 6
+      "2024-04-09": 21
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 878,
-    "timeDay": 878,
-    "timeWeek": 878,
-    "timeMonth": 878,
-    "timeYear": 878,
+    "time": 819,
+    "timeDay": 819,
+    "timeWeek": 819,
+    "timeMonth": 819,
+    "timeYear": 819,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 591,
-    "timeDay": 591,
-    "timeWeek": 591,
-    "timeMonth": 591,
-    "timeYear": 591,
+    "time": 649,
+    "timeDay": 649,
+    "timeWeek": 649,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://tv.hurtauda.fr/static/img/logo.png",
     "slug": "tv-head-end",
     "status": "down",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
-    "time": 588,
-    "timeDay": 588,
-    "timeWeek": 588,
-    "timeMonth": 588,
-    "timeYear": 588,
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 665,
+    "timeDay": 665,
+    "timeWeek": 665,
+    "timeMonth": 665,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-04-09": 6
+      "2024-04-09": 21
     }
   }
 ]
