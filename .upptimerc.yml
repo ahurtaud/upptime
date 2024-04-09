@@ -11,6 +11,8 @@ sites:
     url: https://nas.hurtauda.fr
   - name: TVHeadEnd
     url: https://tv.hurtauda.fr
+    headers:
+    - "Authorization: Basic $basic_auth"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
