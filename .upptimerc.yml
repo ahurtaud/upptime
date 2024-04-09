@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Plex
-    url: https://plex.hurtauda.fr
+    url: http://plex.hurtauda.fr/identity
     icon: https://app.plex.tv/auth/favicon.ico
   - name: Grafana
     url: https://grafana.hurtauda.fr
