@@ -13,7 +13,6 @@ sites:
     url: https://nas.hurtauda.fr
   - name: TVHeadEnd
     url: https://$BASIC_AUTH@tv.hurtauda.fr
-    icon: https://tv.hurtauda.fr/static/img/logo.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +22,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Bienvenue sur le site de status pour les services proposés par **hurtauda.fr**."
-  introMessage: "Veuillez retrouver ci-dessus le status pour chaque service"
+  introMessage: "Veuillez retrouver ci-dessous le status pour chaque service"
   navbar:
     - title: Status
       href: /
