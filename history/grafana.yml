@@ -1,7 +1,7 @@
 url: https://grafana.hurtauda.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-11T07:35:53.583Z
+status: up
+code: 200
+responseTime: 954
+lastUpdated: 2024-04-11T17:39:01.565Z
 startTime: 2024-04-09T20:02:47.136Z
 generator: Upptime <https://github.com/upptime/upptime>
