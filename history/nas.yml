@@ -1,7 +1,7 @@
 url: https://nas.hurtauda.fr
-status: up
-code: 200
-responseTime: 748
-lastUpdated: 2024-07-27T14:52:58.849Z
+status: down
+code: 502
+responseTime: 497
+lastUpdated: 2024-07-27T15:26:10.181Z
 startTime: 2024-04-09T20:02:48.645Z
 generator: Upptime <https://github.com/upptime/upptime>
