@@ -1,7 +1,7 @@
 url: http://plex.hurtauda.fr/identity
-status: down
-code: 502
-responseTime: 933
-lastUpdated: 2024-07-29T15:35:47.537Z
+status: up
+code: 200
+responseTime: 678
+lastUpdated: 2024-07-29T18:54:21.833Z
 startTime: 2024-04-09T20:02:43.240Z
 generator: Upptime <https://github.com/upptime/upptime>
