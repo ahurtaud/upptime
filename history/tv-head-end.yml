@@ -1,7 +1,7 @@
 url: https://$BASIC_AUTH@tv.hurtauda.fr
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-24T08:17:52.393Z
+status: up
+code: 200
+responseTime: 731
+lastUpdated: 2025-05-24T13:05:06.477Z
 startTime: 2024-04-09T20:02:49.827Z
 generator: Upptime <https://github.com/upptime/upptime>
