@@ -5,15 +5,15 @@
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "97.38%",
+    "uptime": "97.39%",
     "uptimeDay": "84.57%",
     "uptimeWeek": "94.93%",
     "uptimeMonth": "96.49%",
     "uptimeYear": "97.44%",
-    "time": 1300,
-    "timeDay": 759,
-    "timeWeek": 815,
-    "timeMonth": 1048,
+    "time": 1299,
+    "timeDay": 753,
+    "timeWeek": 807,
+    "timeMonth": 1040,
     "timeYear": 1353,
     "dailyMinutesDown": {
       "2025-05-28": 222,
@@ -74,8 +74,7 @@
       "2024-06-14": 24,
       "2024-06-08": 283,
       "2024-06-05": 108,
-      "2024-05-30": 17,
-      "2024-05-29": 82
+      "2024-05-30": 17
     }
   },
   {
@@ -89,10 +88,10 @@
     "uptimeWeek": "94.94%",
     "uptimeMonth": "96.80%",
     "uptimeYear": "97.85%",
-    "time": 1128,
-    "timeDay": 729,
-    "timeWeek": 829,
-    "timeMonth": 1016,
+    "time": 1127,
+    "timeDay": 713,
+    "timeWeek": 817,
+    "timeMonth": 1012,
     "timeYear": 1127,
     "dailyMinutesDown": {
       "2025-05-28": 222,
@@ -143,8 +142,7 @@
       "2024-06-14": 24,
       "2024-06-08": 266,
       "2024-06-05": 33,
-      "2024-05-30": 17,
-      "2024-05-29": 82
+      "2024-05-30": 17
     }
   },
   {
@@ -158,10 +156,10 @@
     "uptimeWeek": "94.95%",
     "uptimeMonth": "96.80%",
     "uptimeYear": "97.76%",
-    "time": 785,
-    "timeDay": 530,
-    "timeWeek": 542,
-    "timeMonth": 593,
+    "time": 784,
+    "timeDay": 492,
+    "timeWeek": 535,
+    "timeMonth": 591,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2025-05-28": 221,
@@ -216,8 +214,7 @@
       "2024-06-09": 16,
       "2024-06-08": 265,
       "2024-06-05": 32,
-      "2024-05-30": 17,
-      "2024-05-29": 82
+      "2024-05-30": 17
     }
   },
   {
@@ -232,9 +229,9 @@
     "uptimeMonth": "96.72%",
     "uptimeYear": "97.51%",
     "time": 981,
-    "timeDay": 704,
-    "timeWeek": 780,
-    "timeMonth": 856,
+    "timeDay": 635,
+    "timeWeek": 758,
+    "timeMonth": 848,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2025-05-28": 221,
@@ -299,8 +296,7 @@
       "2024-06-09": 16,
       "2024-06-08": 276,
       "2024-06-05": 107,
-      "2024-05-30": 40,
-      "2024-05-29": 82
+      "2024-05-30": 40
     }
   }
 ]
