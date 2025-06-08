@@ -5,15 +5,15 @@
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "97.29%",
+    "uptime": "97.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.34%",
     "uptimeMonth": "95.83%",
     "uptimeYear": "97.30%",
-    "time": 1293,
-    "timeDay": 620,
-    "timeWeek": 842,
-    "timeMonth": 914,
+    "time": 1292,
+    "timeDay": 1041,
+    "timeWeek": 827,
+    "timeMonth": 922,
     "timeYear": 1356,
     "dailyMinutesDown": {
       "2025-06-03": 489,
@@ -73,8 +73,7 @@
       "2024-06-17": 804,
       "2024-06-16": 1440,
       "2024-06-15": 913,
-      "2024-06-14": 24,
-      "2024-06-08": 283
+      "2024-06-14": 24
     }
   },
   {
@@ -83,15 +82,15 @@
     "icon": "https://grafana.hurtauda.fr/public/img/grafana_icon.svg",
     "slug": "grafana",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.34%",
     "uptimeMonth": "96.05%",
     "uptimeYear": "97.69%",
     "time": 1122,
-    "timeDay": 627,
-    "timeWeek": 813,
-    "timeMonth": 925,
+    "timeDay": 1091,
+    "timeWeek": 803,
+    "timeMonth": 936,
     "timeYear": 1128,
     "dailyMinutesDown": {
       "2025-06-03": 489,
@@ -141,8 +140,7 @@
       "2024-06-17": 804,
       "2024-06-16": 1440,
       "2024-06-15": 912,
-      "2024-06-14": 24,
-      "2024-06-08": 266
+      "2024-06-14": 24
     }
   },
   {
@@ -157,9 +155,9 @@
     "uptimeMonth": "96.03%",
     "uptimeYear": "97.60%",
     "time": 780,
-    "timeDay": 423,
-    "timeWeek": 538,
-    "timeMonth": 585,
+    "timeDay": 845,
+    "timeWeek": 555,
+    "timeMonth": 597,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2025-06-03": 489,
@@ -213,8 +211,7 @@
       "2024-06-16": 1440,
       "2024-06-15": 912,
       "2024-06-14": 23,
-      "2024-06-09": 16,
-      "2024-06-08": 265
+      "2024-06-09": 16
     }
   },
   {
@@ -223,15 +220,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.hurtauda.fr.ico",
     "slug": "tv-head-end",
     "status": "up",
-    "uptime": "97.08%",
+    "uptime": "97.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "90.34%",
     "uptimeMonth": "96.01%",
     "uptimeYear": "97.37%",
-    "time": 978,
-    "timeDay": 640,
-    "timeWeek": 823,
-    "timeMonth": 851,
+    "time": 979,
+    "timeDay": 1047,
+    "timeWeek": 816,
+    "timeMonth": 863,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2025-06-03": 489,
@@ -295,8 +292,7 @@
       "2024-06-16": 1440,
       "2024-06-15": 911,
       "2024-06-14": 23,
-      "2024-06-09": 16,
-      "2024-06-08": 276
+      "2024-06-09": 16
     }
   }
 ]
