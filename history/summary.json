@@ -10,10 +10,10 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "97.90%",
-    "time": 1322,
-    "timeDay": 1293,
-    "timeWeek": 958,
-    "timeMonth": 939,
+    "time": 1321,
+    "timeDay": 794,
+    "timeWeek": 947,
+    "timeMonth": 935,
     "timeYear": 1391,
     "dailyMinutesDown": {
       "2025-07-24": 25,
@@ -71,8 +71,7 @@
       "2024-08-17": 62,
       "2024-08-14": 167,
       "2024-08-08": 20,
-      "2024-08-01": 367,
-      "2024-07-31": 19
+      "2024-08-01": 367
     }
   },
   {
@@ -81,15 +80,15 @@
     "icon": "https://grafana.hurtauda.fr/public/img/grafana_icon.svg",
     "slug": "grafana",
     "status": "up",
-    "uptime": "97.65%",
+    "uptime": "97.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "98.22%",
-    "time": 1126,
-    "timeDay": 1183,
-    "timeWeek": 952,
-    "timeMonth": 1108,
+    "time": 1125,
+    "timeDay": 881,
+    "timeWeek": 957,
+    "timeMonth": 1101,
     "timeYear": 1166,
     "dailyMinutesDown": {
       "2025-07-24": 25,
@@ -139,8 +138,7 @@
       "2024-08-26": 172,
       "2024-08-17": 62,
       "2024-08-14": 167,
-      "2024-08-01": 367,
-      "2024-07-31": 18
+      "2024-08-01": 367
     }
   },
   {
@@ -149,16 +147,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.hurtauda.fr.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "97.52%",
+    "uptime": "97.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "98.12%",
     "time": 771,
-    "timeDay": 700,
-    "timeWeek": 532,
-    "timeMonth": 621,
-    "timeYear": 816,
+    "timeDay": 561,
+    "timeWeek": 525,
+    "timeMonth": 619,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-07-24": 25,
       "2025-07-21": 65,
@@ -212,8 +210,7 @@
       "2024-08-26": 172,
       "2024-08-17": 61,
       "2024-08-14": 166,
-      "2024-08-01": 367,
-      "2024-07-31": 18
+      "2024-08-01": 367
     }
   },
   {
@@ -228,9 +225,9 @@
     "uptimeMonth": "98.98%",
     "uptimeYear": "98.07%",
     "time": 972,
-    "timeDay": 1114,
-    "timeWeek": 860,
-    "timeMonth": 918,
+    "timeDay": 677,
+    "timeWeek": 841,
+    "timeMonth": 912,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-07-24": 36,
@@ -290,8 +287,7 @@
       "2024-08-17": 61,
       "2024-08-14": 166,
       "2024-08-09": 22,
-      "2024-08-01": 367,
-      "2024-07-31": 18
+      "2024-08-01": 367
     }
   }
 ]
