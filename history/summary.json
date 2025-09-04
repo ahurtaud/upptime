@@ -5,16 +5,16 @@
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "98.70%",
+    "uptime": "98.40%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "97.30%",
     "uptimeYear": "97.83%",
-    "time": 1522,
-    "timeDay": 862,
-    "timeWeek": 1001,
-    "timeMonth": 3500,
-    "timeYear": 1670,
+    "time": 1526,
+    "timeDay": 3216,
+    "timeWeek": 1314,
+    "timeMonth": 3540,
+    "timeYear": 1675,
     "dailyMinutesDown": {
       "2025-09-02": 22,
       "2025-08-27": 109,
@@ -77,8 +77,7 @@
       "2024-10-02": 96,
       "2024-09-24": 137,
       "2024-09-23": 21,
-      "2024-09-11": 854,
-      "2024-09-04": 438
+      "2024-09-11": 854
     }
   },
   {
@@ -88,15 +87,15 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "97.64%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "98.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "97.10%",
     "uptimeYear": "98.13%",
-    "time": 1229,
-    "timeDay": 986,
-    "timeWeek": 921,
-    "timeMonth": 2609,
-    "timeYear": 1341,
+    "time": 1231,
+    "timeDay": 1287,
+    "timeWeek": 997,
+    "timeMonth": 2619,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2025-09-02": 21,
       "2025-08-27": 109,
@@ -151,8 +150,7 @@
       "2024-10-02": 96,
       "2024-09-24": 137,
       "2024-09-23": 20,
-      "2024-09-11": 854,
-      "2024-09-04": 438
+      "2024-09-11": 854
     }
   },
   {
@@ -162,13 +160,13 @@
     "slug": "nas",
     "status": "up",
     "uptime": "97.64%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "98.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "98.06%",
-    "time": 909,
-    "timeDay": 535,
-    "timeWeek": 499,
+    "time": 908,
+    "timeDay": 619,
+    "timeWeek": 513,
     "timeMonth": 2398,
     "timeYear": 996,
     "dailyMinutesDown": {
@@ -229,8 +227,7 @@
       "2024-10-02": 96,
       "2024-09-24": 137,
       "2024-09-23": 20,
-      "2024-09-11": 854,
-      "2024-09-04": 437
+      "2024-09-11": 854
     }
   },
   {
@@ -240,14 +237,14 @@
     "slug": "tv-head-end",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "98.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "95.73%",
     "uptimeYear": "97.87%",
     "time": 1143,
-    "timeDay": 627,
-    "timeWeek": 752,
-    "timeMonth": 2627,
+    "timeDay": 766,
+    "timeWeek": 824,
+    "timeMonth": 2626,
     "timeYear": 1205,
     "dailyMinutesDown": {
       "2025-09-02": 20,
@@ -312,8 +309,7 @@
       "2024-10-02": 95,
       "2024-09-24": 137,
       "2024-09-23": 19,
-      "2024-09-11": 854,
-      "2024-09-04": 437
+      "2024-09-11": 854
     }
   }
 ]
