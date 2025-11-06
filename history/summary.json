@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "97.94%",
-    "time": 1708,
-    "timeDay": 5591,
-    "timeWeek": 1513,
-    "timeMonth": 2597,
-    "timeYear": 1905,
+    "time": 1706,
+    "timeDay": 684,
+    "timeWeek": 1471,
+    "timeMonth": 2591,
+    "timeYear": 1904,
     "dailyMinutesDown": {
       "2025-10-28": 78,
       "2025-10-20": 37,
@@ -77,8 +77,7 @@
       "2025-01-20": 18,
       "2025-01-07": 20,
       "2024-12-24": 250,
-      "2024-12-04": 17,
-      "2024-11-06": 696
+      "2024-12-04": 17
     }
   },
   {
@@ -93,9 +92,9 @@
     "uptimeMonth": "99.57%",
     "uptimeYear": "98.21%",
     "time": 1406,
-    "timeDay": 18189,
-    "timeWeek": 3481,
-    "timeMonth": 2115,
+    "timeDay": 1097,
+    "timeWeek": 3477,
+    "timeMonth": 2121,
     "timeYear": 1554,
     "dailyMinutesDown": {
       "2025-10-28": 78,
@@ -154,8 +153,7 @@
       "2025-01-20": 18,
       "2025-01-07": 20,
       "2024-12-24": 250,
-      "2024-12-04": 17,
-      "2024-11-06": 460
+      "2024-12-04": 17
     }
   },
   {
@@ -164,15 +162,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.hurtauda.fr.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.19%",
     "time": 1065,
-    "timeDay": 590,
-    "timeWeek": 517,
-    "timeMonth": 1329,
+    "timeDay": 466,
+    "timeWeek": 499,
+    "timeMonth": 1330,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2025-10-28": 77,
@@ -231,8 +229,7 @@
       "2025-01-07": 20,
       "2024-12-24": 250,
       "2024-12-17": 21,
-      "2024-12-04": 17,
-      "2024-11-06": 460
+      "2024-12-04": 17
     }
   },
   {
@@ -247,10 +244,10 @@
     "uptimeMonth": "98.58%",
     "uptimeYear": "97.93%",
     "time": 1224,
-    "timeDay": 2075,
-    "timeWeek": 821,
+    "timeDay": 464,
+    "timeWeek": 780,
     "timeMonth": 1363,
-    "timeYear": 1313,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2025-10-28": 77,
       "2025-10-21": 475,
@@ -312,8 +309,7 @@
       "2025-01-07": 20,
       "2024-12-24": 250,
       "2024-12-04": 17,
-      "2024-11-07": 22,
-      "2024-11-06": 696
+      "2024-11-07": 22
     }
   }
 ]
