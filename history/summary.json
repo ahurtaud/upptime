@@ -10,10 +10,10 @@
     "uptimeWeek": "94.35%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "97.85%",
-    "time": 1726,
-    "timeDay": 698,
-    "timeWeek": 913,
-    "timeMonth": 1082,
+    "time": 1725,
+    "timeDay": 756,
+    "timeWeek": 865,
+    "timeMonth": 1076,
     "timeYear": 1931,
     "dailyMinutesDown": {
       "2026-01-16": 520,
@@ -88,15 +88,15 @@
     "icon": "https://grafana.hurtauda.fr/public/img/grafana_icon.svg",
     "slug": "grafana",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.29%",
     "uptimeMonth": "98.92%",
     "uptimeYear": "98.24%",
     "time": 1450,
-    "timeDay": 906,
-    "timeWeek": 1475,
-    "timeMonth": 1405,
+    "timeDay": 741,
+    "timeWeek": 1376,
+    "timeMonth": 1393,
     "timeYear": 1611,
     "dailyMinutesDown": {
       "2026-01-16": 372,
@@ -157,8 +157,7 @@
       "2025-02-18": 23,
       "2025-02-08": 496,
       "2025-02-07": 32,
-      "2025-01-26": 20,
-      "2025-01-20": 18
+      "2025-01-26": 20
     }
   },
   {
@@ -173,9 +172,9 @@
     "uptimeMonth": "99.17%",
     "uptimeYear": "98.26%",
     "time": 1115,
-    "timeDay": 424,
-    "timeWeek": 2250,
-    "timeMonth": 1384,
+    "timeDay": 360,
+    "timeWeek": 2227,
+    "timeMonth": 1377,
     "timeYear": 1242,
     "dailyMinutesDown": {
       "2026-01-16": 258,
@@ -234,8 +233,7 @@
       "2025-02-18": 22,
       "2025-02-08": 496,
       "2025-02-07": 32,
-      "2025-01-26": 20,
-      "2025-01-20": 28
+      "2025-01-26": 20
     }
   },
   {
@@ -250,9 +248,9 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "98.04%",
     "time": 1203,
-    "timeDay": 500,
-    "timeWeek": 789,
-    "timeMonth": 822,
+    "timeDay": 439,
+    "timeWeek": 763,
+    "timeMonth": 812,
     "timeYear": 1278,
     "dailyMinutesDown": {
       "2026-01-16": 218,
@@ -318,8 +316,7 @@
       "2025-02-18": 22,
       "2025-02-08": 496,
       "2025-02-07": 32,
-      "2025-01-26": 20,
-      "2025-01-20": 18
+      "2025-01-26": 20
     }
   }
 ]
