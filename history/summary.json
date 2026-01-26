@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.65%",
     "uptimeYear": "97.85%",
-    "time": 1724,
-    "timeDay": 873,
-    "timeWeek": 793,
-    "timeMonth": 1076,
+    "time": 1723,
+    "timeDay": 850,
+    "timeWeek": 814,
+    "timeMonth": 1051,
     "timeYear": 1933,
     "dailyMinutesDown": {
       "2026-01-16": 520,
@@ -94,10 +94,10 @@
     "uptimeMonth": "98.86%",
     "uptimeYear": "98.24%",
     "time": 1451,
-    "timeDay": 1111,
-    "timeWeek": 1013,
-    "timeMonth": 1400,
-    "timeYear": 1616,
+    "timeDay": 897,
+    "timeWeek": 1012,
+    "timeMonth": 1395,
+    "timeYear": 1615,
     "dailyMinutesDown": {
       "2026-01-21": 26,
       "2026-01-16": 372,
@@ -157,8 +157,7 @@
       "2025-03-01": 42,
       "2025-02-18": 23,
       "2025-02-08": 496,
-      "2025-02-07": 32,
-      "2025-01-26": 20
+      "2025-02-07": 32
     }
   },
   {
@@ -167,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.hurtauda.fr.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "98.27%",
     "time": 1114,
-    "timeDay": 597,
+    "timeDay": 423,
     "timeWeek": 454,
-    "timeMonth": 1430,
-    "timeYear": 1243,
+    "timeMonth": 1427,
+    "timeYear": 1242,
     "dailyMinutesDown": {
       "2026-01-16": 258,
       "2026-01-15": 23,
@@ -233,8 +232,7 @@
       "2025-03-01": 60,
       "2025-02-18": 22,
       "2025-02-08": 496,
-      "2025-02-07": 32,
-      "2025-01-26": 20
+      "2025-02-07": 32
     }
   },
   {
@@ -249,10 +247,10 @@
     "uptimeMonth": "99.34%",
     "uptimeYear": "98.04%",
     "time": 1202,
-    "timeDay": 595,
-    "timeWeek": 544,
-    "timeMonth": 816,
-    "timeYear": 1277,
+    "timeDay": 638,
+    "timeWeek": 564,
+    "timeMonth": 815,
+    "timeYear": 1276,
     "dailyMinutesDown": {
       "2026-01-16": 218,
       "2026-01-15": 23,
@@ -316,8 +314,7 @@
       "2025-03-01": 60,
       "2025-02-18": 22,
       "2025-02-08": 496,
-      "2025-02-07": 32,
-      "2025-01-26": 20
+      "2025-02-07": 32
     }
   }
 ]
