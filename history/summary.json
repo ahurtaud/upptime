@@ -5,15 +5,15 @@
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.01%",
-    "uptimeMonth": "82.59%",
+    "uptimeMonth": "83.39%",
     "uptimeYear": "96.53%",
     "time": 1995,
-    "timeDay": 7902,
-    "timeWeek": 2782,
-    "timeMonth": 3351,
+    "timeDay": 1029,
+    "timeWeek": 2814,
+    "timeMonth": 3299,
     "timeYear": 2188,
     "dailyMinutesDown": {
       "2026-03-14": 35,
@@ -99,13 +99,13 @@
     "uptime": "98.16%",
     "uptimeDay": "95.04%",
     "uptimeWeek": "99.29%",
-    "uptimeMonth": "83.75%",
+    "uptimeMonth": "84.55%",
     "uptimeYear": "96.92%",
-    "time": 1614,
-    "timeDay": 3170,
-    "timeWeek": 2348,
-    "timeMonth": 2739,
-    "timeYear": 1782,
+    "time": 1615,
+    "timeDay": 1083,
+    "timeWeek": 2388,
+    "timeMonth": 2705,
+    "timeYear": 1784,
     "dailyMinutesDown": {
       "2026-03-16": 71,
       "2026-03-08": 362,
@@ -172,8 +172,7 @@
       "2025-04-04": 133,
       "2025-04-03": 133,
       "2025-03-20": 285,
-      "2025-03-19": 87,
-      "2025-03-17": 31
+      "2025-03-19": 87
     }
   },
   {
@@ -183,14 +182,14 @@
     "slug": "nas",
     "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "84.24%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "85.03%",
     "uptimeYear": "97.02%",
-    "time": 1309,
-    "timeDay": 1504,
-    "timeWeek": 871,
-    "timeMonth": 2643,
+    "time": 1310,
+    "timeDay": 593,
+    "timeWeek": 897,
+    "timeMonth": 2583,
     "timeYear": 1470,
     "dailyMinutesDown": {
       "2026-03-15": 20,
@@ -252,8 +251,7 @@
       "2025-04-03": 134,
       "2025-03-31": 17,
       "2025-03-20": 284,
-      "2025-03-19": 87,
-      "2025-03-17": 30
+      "2025-03-19": 87
     }
   },
   {
@@ -264,13 +262,13 @@
     "status": "up",
     "uptime": "98.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.15%",
-    "uptimeMonth": "83.93%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "84.72%",
     "uptimeYear": "96.75%",
     "time": 1295,
-    "timeDay": 7933,
-    "timeWeek": 2011,
-    "timeMonth": 2270,
+    "timeDay": 676,
+    "timeWeek": 1994,
+    "timeMonth": 2229,
     "timeYear": 1377,
     "dailyMinutesDown": {
       "2026-03-14": 38,
@@ -341,8 +339,7 @@
       "2025-04-03": 39,
       "2025-03-20": 284,
       "2025-03-19": 87,
-      "2025-03-18": 19,
-      "2025-03-17": 53
+      "2025-03-18": 19
     }
   }
 ]
