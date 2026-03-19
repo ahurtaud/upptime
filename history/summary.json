@@ -5,15 +5,15 @@
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "98.20%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "97.88%",
-    "uptimeMonth": "86.49%",
+    "uptime": "98.21%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "89.77%",
     "uptimeYear": "96.52%",
     "time": 1997,
-    "timeDay": 812,
-    "timeWeek": 2609,
-    "timeMonth": 3193,
+    "timeDay": 998,
+    "timeWeek": 2420,
+    "timeMonth": 3148,
     "timeYear": 2187,
     "dailyMinutesDown": {
       "2026-03-17": 84,
@@ -98,14 +98,14 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "98.20%",
-    "uptimeDay": "94.17%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.46%",
-    "uptimeMonth": "87.65%",
+    "uptimeMonth": "90.94%",
     "uptimeYear": "96.91%",
-    "time": 1617,
-    "timeDay": 1074,
-    "timeWeek": 2246,
-    "timeMonth": 2626,
+    "time": 1618,
+    "timeDay": 1137,
+    "timeWeek": 1688,
+    "timeMonth": 2590,
     "timeYear": 1778,
     "dailyMinutesDown": {
       "2026-03-17": 84,
@@ -173,8 +173,7 @@
       "2025-04-05": 49,
       "2025-04-04": 133,
       "2025-04-03": 133,
-      "2025-03-20": 285,
-      "2025-03-19": 87
+      "2025-03-20": 285
     }
   },
   {
@@ -184,14 +183,14 @@
     "slug": "nas",
     "status": "up",
     "uptime": "97.99%",
-    "uptimeDay": "94.20%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.98%",
-    "uptimeMonth": "88.14%",
+    "uptimeMonth": "91.43%",
     "uptimeYear": "97.01%",
     "time": 1308,
-    "timeDay": 569,
-    "timeWeek": 883,
-    "timeMonth": 2471,
+    "timeDay": 608,
+    "timeWeek": 795,
+    "timeMonth": 2421,
     "timeYear": 1466,
     "dailyMinutesDown": {
       "2026-03-17": 84,
@@ -253,8 +252,7 @@
       "2025-04-04": 110,
       "2025-04-03": 134,
       "2025-03-31": 17,
-      "2025-03-20": 284,
-      "2025-03-19": 87
+      "2025-03-20": 284
     }
   },
   {
@@ -264,15 +262,15 @@
     "slug": "tv-head-end",
     "status": "up",
     "uptime": "98.16%",
-    "uptimeDay": "94.23%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.80%",
-    "uptimeMonth": "87.83%",
+    "uptimeMonth": "91.11%",
     "uptimeYear": "96.75%",
     "time": 1295,
-    "timeDay": 576,
-    "timeWeek": 1976,
-    "timeMonth": 2148,
-    "timeYear": 1375,
+    "timeDay": 712,
+    "timeWeek": 1894,
+    "timeMonth": 2114,
+    "timeYear": 1377,
     "dailyMinutesDown": {
       "2026-03-17": 83,
       "2026-03-14": 38,
@@ -341,8 +339,7 @@
       "2025-04-05": 187,
       "2025-04-04": 89,
       "2025-04-03": 39,
-      "2025-03-20": 284,
-      "2025-03-19": 87
+      "2025-03-20": 284
     }
   }
 ]
