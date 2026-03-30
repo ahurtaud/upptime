@@ -4,18 +4,19 @@
     "url": "http://plex.hurtauda.fr/identity",
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "98.24%",
-    "uptimeDay": "96.77%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.20%",
-    "uptimeMonth": "97.14%",
+    "uptimeMonth": "97.25%",
     "uptimeYear": "96.53%",
     "time": 2002,
-    "timeDay": 857,
+    "timeDay": 944,
     "timeWeek": 1169,
-    "timeMonth": 2580,
+    "timeMonth": 2622,
     "timeYear": 2188,
     "dailyMinutesDown": {
+      "2026-03-30": 0,
       "2026-03-29": 47,
       "2026-03-26": 34,
       "2026-03-19": 41,
@@ -90,7 +91,7 @@
       "2025-04-08": 230,
       "2025-04-07": 47,
       "2025-04-06": 283,
-      "2025-04-05": 166
+      "2025-04-05": 136
     }
   },
   {
@@ -107,7 +108,7 @@
     "time": 1631,
     "timeDay": 1042,
     "timeWeek": 1628,
-    "timeMonth": 2537,
+    "timeMonth": 2183,
     "timeYear": 1787,
     "dailyMinutesDown": {
       "2026-03-30": 58,
