@@ -5,16 +5,16 @@
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
     "status": "up",
-    "uptime": "98.25%",
+    "uptime": "98.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "96.53%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "96.55%",
     "time": 2006,
-    "timeDay": 710,
-    "timeWeek": 1288,
-    "timeMonth": 2420,
-    "timeYear": 2103,
+    "timeDay": 975,
+    "timeWeek": 1367,
+    "timeMonth": 2495,
+    "timeYear": 2062,
     "dailyMinutesDown": {
       "2026-03-30": 32,
       "2026-03-29": 47,
@@ -89,8 +89,7 @@
       "2025-04-19": 271,
       "2025-04-10": 320,
       "2025-04-08": 230,
-      "2025-04-07": 47,
-      "2025-04-06": 283
+      "2025-04-07": 47
     }
   },
   {
@@ -105,10 +104,10 @@
     "uptimeMonth": "98.37%",
     "uptimeYear": "97.00%",
     "time": 1633,
-    "timeDay": 1045,
-    "timeWeek": 921,
-    "timeMonth": 1811,
-    "timeYear": 1659,
+    "timeDay": 990,
+    "timeWeek": 916,
+    "timeMonth": 1809,
+    "timeYear": 1642,
     "dailyMinutesDown": {
       "2026-03-31": 37,
       "2026-03-30": 58,
@@ -188,12 +187,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "98.72%",
-    "uptimeYear": "97.12%",
+    "uptimeYear": "97.15%",
     "time": 1309,
-    "timeDay": 422,
-    "timeWeek": 437,
-    "timeMonth": 2246,
-    "timeYear": 1379,
+    "timeDay": 489,
+    "timeWeek": 416,
+    "timeMonth": 2242,
+    "timeYear": 1350,
     "dailyMinutesDown": {
       "2026-03-30": 57,
       "2026-03-19": 40,
@@ -250,8 +249,7 @@
       "2025-04-23": 105,
       "2025-04-22": 31,
       "2025-04-10": 320,
-      "2025-04-08": 25,
-      "2025-04-06": 46
+      "2025-04-08": 25
     }
   },
   {
@@ -260,16 +258,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.hurtauda.fr.ico",
     "slug": "tv-head-end",
     "status": "up",
-    "uptime": "98.20%",
+    "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.49%",
-    "uptimeYear": "96.84%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "96.87%",
     "time": 1294,
-    "timeDay": 581,
-    "timeWeek": 1288,
-    "timeMonth": 2200,
-    "timeYear": 1333,
+    "timeDay": 595,
+    "timeWeek": 1280,
+    "timeMonth": 2238,
+    "timeYear": 1324,
     "dailyMinutesDown": {
       "2026-03-19": 40,
       "2026-03-17": 83,
@@ -334,8 +332,7 @@
       "2025-04-22": 50,
       "2025-04-10": 320,
       "2025-04-08": 84,
-      "2025-04-07": 82,
-      "2025-04-06": 17
+      "2025-04-07": 82
     }
   }
 ]
