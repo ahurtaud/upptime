@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "98.26%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.68%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.25%",
-    "uptimeYear": "96.55%",
-    "time": 2006,
-    "timeDay": 975,
-    "timeWeek": 1367,
-    "timeMonth": 2495,
-    "timeYear": 2062,
+    "uptimeYear": "96.61%",
+    "time": 2182,
+    "timeDay": 804,
+    "timeWeek": 765,
+    "timeMonth": 2491,
+    "timeYear": 2005,
     "dailyMinutesDown": {
       "2026-03-30": 32,
       "2026-03-29": 47,
@@ -88,8 +88,7 @@
       "2025-04-22": 32,
       "2025-04-19": 271,
       "2025-04-10": 320,
-      "2025-04-08": 230,
-      "2025-04-07": 47
+      "2025-04-08": 230
     }
   },
   {
@@ -100,14 +99,14 @@
     "status": "up",
     "uptime": "98.28%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.06%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "98.37%",
     "uptimeYear": "97.00%",
     "time": 1633,
-    "timeDay": 990,
-    "timeWeek": 916,
-    "timeMonth": 1809,
-    "timeYear": 1642,
+    "timeDay": 693,
+    "timeWeek": 883,
+    "timeMonth": 1796,
+    "timeYear": 1640,
     "dailyMinutesDown": {
       "2026-03-31": 37,
       "2026-03-30": 58,
@@ -173,8 +172,7 @@
       "2025-04-23": 105,
       "2025-04-22": 32,
       "2025-04-10": 320,
-      "2025-04-08": 20,
-      "2025-04-07": 47
+      "2025-04-08": 20
     }
   },
   {
@@ -183,16 +181,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nas.hurtauda.fr.ico",
     "slug": "nas",
     "status": "up",
-    "uptime": "98.03%",
+    "uptime": "98.04%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.43%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.72%",
-    "uptimeYear": "97.15%",
+    "uptimeYear": "97.16%",
     "time": 1309,
-    "timeDay": 489,
-    "timeWeek": 416,
-    "timeMonth": 2242,
-    "timeYear": 1350,
+    "timeDay": 401,
+    "timeWeek": 415,
+    "timeMonth": 2241,
+    "timeYear": 1339,
     "dailyMinutesDown": {
       "2026-03-30": 57,
       "2026-03-19": 40,
@@ -261,13 +259,13 @@
     "uptime": "98.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.61%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "96.87%",
     "time": 1294,
-    "timeDay": 595,
-    "timeWeek": 1280,
-    "timeMonth": 2238,
-    "timeYear": 1324,
+    "timeDay": 485,
+    "timeWeek": 536,
+    "timeMonth": 2314,
+    "timeYear": 1297,
     "dailyMinutesDown": {
       "2026-03-19": 40,
       "2026-03-17": 83,
@@ -331,8 +329,7 @@
       "2025-04-23": 105,
       "2025-04-22": 50,
       "2025-04-10": 320,
-      "2025-04-08": 84,
-      "2025-04-07": 82
+      "2025-04-08": 84
     }
   }
 ]
