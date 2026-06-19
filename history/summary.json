@@ -92,11 +92,11 @@
     "url": "https://grafana.hurtauda.fr",
     "icon": "https://grafana.hurtauda.fr/public/img/grafana_icon.svg",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "98.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.74%",
+    "status": "down",
+    "uptime": "98.30%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "96.89%",
     "time": 1710,
     "timeDay": 955,
@@ -169,7 +169,8 @@
       "2026-05-18": 169,
       "2026-05-28": 224,
       "2026-06-09": 206,
-      "2026-06-17": 124
+      "2026-06-17": 124,
+      "2026-06-19": 9
     }
   },
   {
@@ -177,13 +178,13 @@
     "url": "https://nas.hurtauda.fr",
     "icon": "https://icons.duckduckgo.com/ip3/nas.hurtauda.fr.ico",
     "slug": "nas",
-    "status": "up",
-    "uptime": "98.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.76%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "99.74%",
+    "uptimeWeek": "98.73%",
+    "uptimeMonth": "98.75%",
     "uptimeYear": "97.16%",
-    "time": 1361,
+    "time": 1362,
     "timeDay": 409,
     "timeWeek": 475,
     "timeMonth": 531,
@@ -244,7 +245,8 @@
       "2026-05-18": 164,
       "2026-05-28": 219,
       "2026-06-09": 201,
-      "2026-06-17": 124
+      "2026-06-17": 124,
+      "2026-06-19": 4
     }
   },
   {
