@@ -78,17 +78,17 @@
     "url": "https://grafana.hurtauda.fr",
     "icon": "https://grafana.hurtauda.fr/public/img/grafana_icon.svg",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "89.89%",
-    "uptimeYear": "96.40%",
-    "time": 1724,
-    "timeDay": 1140,
-    "timeWeek": 1536,
-    "timeMonth": 2270,
-    "timeYear": 1680,
+    "status": "up",
+    "uptime": "98.06%",
+    "uptimeDay": "75.75%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "89.10%",
+    "uptimeYear": "96.34%",
+    "time": 1674,
+    "timeDay": 12252,
+    "timeWeek": 4265,
+    "timeMonth": 2873,
+    "timeYear": 1732,
     "dailyMinutesDown": {
       "2025-09-09": 93,
       "2025-09-16": 48,
@@ -147,7 +147,7 @@
       "2026-08-17": 31,
       "2026-08-23": 15,
       "2026-08-24": 381,
-      "2026-09-04": 1
+      "2026-09-04": 349
     }
   },
   {
