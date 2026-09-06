@@ -4,17 +4,17 @@
     "url": "http://plex.hurtauda.fr/identity",
     "icon": "https://app.plex.tv/auth/favicon.ico",
     "slug": "plex",
-    "status": "down",
-    "uptime": "98.05%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "91.48%",
-    "uptimeYear": "96.40%",
+    "status": "up",
+    "uptime": "98.04%",
+    "uptimeDay": "82.85%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "90.95%",
+    "uptimeYear": "96.36%",
     "time": 1985,
-    "timeDay": 624,
-    "timeWeek": 929,
-    "timeMonth": 2866,
-    "timeYear": 1804,
+    "timeDay": 634,
+    "timeWeek": 893,
+    "timeMonth": 2799,
+    "timeYear": 1801,
     "dailyMinutesDown": {
       "2025-09-08": 23,
       "2025-09-09": 66,
@@ -71,7 +71,7 @@
       "2026-08-09": 1440,
       "2026-08-08": 1001,
       "2026-08-24": 21,
-      "2026-09-06": 14
+      "2026-09-06": 247
     }
   },
   {
@@ -79,17 +79,17 @@
     "url": "https://grafana.hurtauda.fr",
     "icon": "https://grafana.hurtauda.fr/public/img/grafana_icon.svg",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "98.07%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "96.44%",
-    "uptimeMonth": "89.07%",
-    "uptimeYear": "96.33%",
-    "time": 1678,
-    "timeDay": 1344,
-    "timeWeek": 4349,
-    "timeMonth": 2874,
-    "timeYear": 1728,
+    "status": "up",
+    "uptime": "98.05%",
+    "uptimeDay": "83.15%",
+    "uptimeWeek": "94.13%",
+    "uptimeMonth": "88.54%",
+    "uptimeYear": "96.29%",
+    "time": 1677,
+    "timeDay": 1214,
+    "timeWeek": 3986,
+    "timeMonth": 2824,
+    "timeYear": 1727,
     "dailyMinutesDown": {
       "2025-09-09": 93,
       "2025-09-16": 48,
@@ -149,7 +149,7 @@
       "2026-08-23": 15,
       "2026-08-24": 381,
       "2026-09-04": 349,
-      "2026-09-06": 10
+      "2026-09-06": 243
     }
   },
   {
@@ -157,17 +157,17 @@
     "url": "https://nas.hurtauda.fr",
     "icon": "https://icons.duckduckgo.com/ip3/nas.hurtauda.fr.ico",
     "slug": "nas",
-    "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "91.59%",
-    "uptimeYear": "96.87%",
-    "time": 1261,
-    "timeDay": 392,
-    "timeWeek": 505,
+    "status": "up",
+    "uptime": "98.07%",
+    "uptimeDay": "83.48%",
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "91.06%",
+    "uptimeYear": "96.83%",
+    "time": 1262,
+    "timeDay": 594,
+    "timeWeek": 542,
     "timeMonth": 824,
-    "timeYear": 1220,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2025-09-09": 22,
       "2025-09-22": 326,
@@ -210,7 +210,7 @@
       "2026-08-10": 1051,
       "2026-08-09": 1440,
       "2026-08-08": 992,
-      "2026-09-06": 5
+      "2026-09-06": 238
     }
   },
   {
@@ -218,16 +218,16 @@
     "url": "https://$BASIC_AUTH@tv.hurtauda.fr",
     "icon": "https://icons.duckduckgo.com/ip3/tv.hurtauda.fr.ico",
     "slug": "tv-head-end",
-    "status": "down",
-    "uptime": "98.13%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.44%",
-    "uptimeYear": "96.70%",
+    "status": "up",
+    "uptime": "98.12%",
+    "uptimeDay": "83.82%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "90.91%",
+    "uptimeYear": "96.66%",
     "time": 1266,
-    "timeDay": 765,
-    "timeWeek": 1110,
-    "timeMonth": 1774,
+    "timeDay": 788,
+    "timeWeek": 1072,
+    "timeMonth": 1744,
     "timeYear": 1122,
     "dailyMinutesDown": {
       "2025-09-09": 41,
@@ -280,7 +280,7 @@
       "2026-08-10": 1051,
       "2026-08-09": 1440,
       "2026-08-08": 987,
-      "2026-09-06": 0
+      "2026-09-06": 233
     }
   }
 ]
